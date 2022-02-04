@@ -15,8 +15,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-Yj6CQY-UF]
-- Live Site URL: [https://unruffled-bardeen-d4195d.netlify.app/]
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-2kESuLTld]
+- Live Site URL: [https://youthful-carson-ab929e.netlify.app/]
 
 ## My process
 
