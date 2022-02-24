@@ -122,6 +122,15 @@ hr {
     width: 30px;
 }
 
+.avatag-img-container a:hover .avatar-img {
+    cursor: pointer;
+    border: 1px solid var(--primary-color-two);
+    -webkit-transition: all 0.8s ease-in-out 0.1s;
+       -moz-transition: all 0.8s ease-in-out 0.1s;
+         -o-transition: all 0.8s ease-in-out 0.1s;
+            transition: all 0.8s ease-in-out 0.1s;
+}
+
 .cryptocurrency-section p, 
 .profile-section p {
     font-size: 16px;
