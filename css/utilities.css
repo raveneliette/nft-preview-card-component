@@ -6,7 +6,7 @@
     -webkit-box-shadow: 0 25px 13px 13px hsl(216, 50%, 10%);
        -moz-box-shadow: 0 25px 13px 13px hsl(216, 50%, 10%);
             box-shadow: 0 25px 13px 13px hsl(216, 50%, 10%);
-    width: 332px;
+    max-width: 332px;
 }
 
 .flex {
