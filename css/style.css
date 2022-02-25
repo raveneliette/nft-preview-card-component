@@ -21,6 +21,10 @@ body {
     background-color: var(--dark-color-main);
     color: var(--secondary-color);
     font-family: 'Outfit', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 a {
